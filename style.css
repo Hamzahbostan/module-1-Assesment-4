@@ -1,0 +1,29 @@
+th{
+    font-weight: 900;
+    border-width: auto;
+}
+
+table{
+    font-family: ui-sans-serif, cursive;
+    border-collapse: collapse;
+    border-width: medium;
+}
+
+table, th, td{
+    border: 2px solid black;
+    padding: 8px;
+    text-align: middle;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #17e8a9;
+}
+
+th{
+    font-weight: 900;
+    background-color: #17e8a9;
+    color: #000001;
+}
+
+td{
+    color: #010332;
+}
